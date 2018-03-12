@@ -1,0 +1,34 @@
+td{
+    font-size: 50px;
+}
+
+form{
+    margin-top: 100px;
+    color: crimson;
+}
+
+body{
+    background-color: #ffafae;
+}
+
+table{
+    column-fill: inherit;
+    color: black;
+}
+
+tr{
+    color: crimson;
+}
+
+button{
+    color: black;
+}
+
+input[type="button" i {
+    padding: 10px 6px;
+    padding-top: 1px;
+    padding-right: 6px;
+    padding-bottom: 1px;
+    padding-left: 6px;
+}
+
